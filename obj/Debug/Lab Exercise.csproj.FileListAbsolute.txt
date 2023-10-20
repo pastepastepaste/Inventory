@@ -1,0 +1,15 @@
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\bin\Debug\Lab Exercise.exe.config
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\bin\Debug\Lab Exercise.exe
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\bin\Debug\Lab Exercise.pdb
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\bin\Debug\MetroFramework.dll
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.csproj.AssemblyReference.cache
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab_Exercise.Form1.resources
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab_Exercise.Properties.Resources.resources
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.csproj.GenerateResource.cache
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.csproj.CopyComplete
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.exe
+C:\Users\Ann\Documents\Lab\Lab Exercise\Lab Exercise\obj\Debug\Lab Exercise.pdb
